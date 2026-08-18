@@ -4,6 +4,12 @@ Dieses Projekt ist ein Schulprojekt für Softwareentwicklung (SEW) und wurde als
 
 Es handelt sich um eine Nachbildung des Arcade-Klassikers *Pacman* in Python mit Pygame. Ziel des Projekts war die praktische Anwendung von objektorientierter Programmierung, Graphen-basierter Wegfindung und Geister-KI.
 
+## Screenshots
+
+| Hauptmenü | Gameplay |
+| :---: | :---: |
+| ![Pacman Hauptmenü](screenshots/pacman_mainmenu.png) | ![Pacman Gameplay](screenshots/pacman_ingame.png) |
+
 ## Projektstruktur
 
 - [`main.py`](file:///Users/metiny/Desktop/github/pacman/main.py) – Hauptspielschleife und Game-Controller
